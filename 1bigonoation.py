@@ -1,6 +1,8 @@
 #bionoation
 #bionoation is a sorting algorithm
 # write o(1) program
+b=[56,89,43]
+print(b[0])
 #write o(n) program
 a=[1,2,3,4,5,6,7,8,9,10]
 
