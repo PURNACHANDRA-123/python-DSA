@@ -1,3 +1,4 @@
+#last in first out data structure
 class Stack:
     def __init__(self):
         self.items = []  # Initialize the stack with an empty list
